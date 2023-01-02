@@ -1,0 +1,24 @@
+{
+  "Category": [
+    {
+      "id": 1,
+      "category_title": "Shoes",
+      "persian_title":" گجت های دیجیتال",
+      "img":"/digital.png"
+      
+    },
+    {
+      "id": 2,
+      "category_title": "phones",
+      "persian_title":"موبایل",
+      "img":"/phones.png"
+    },
+    {
+      "id": 3,
+      "category_title": "accessories",
+      "persian_title":"لپ تاپ",
+      "img":"/laptop.png"
+    }
+
+  ]
+}
